@@ -1,3 +1,4 @@
+/**Monty by ALX by Ofiare Khoko**/
 #include "monty.h"
 /**
 * free_stack - it frees a doubly linked list
